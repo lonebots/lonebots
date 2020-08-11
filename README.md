@@ -1,6 +1,6 @@
 ### Hi there, I'm Jishnu - aka [lonebots][website] 👋
 
-## I'm a CS Student, Developer, and Hacker!
+## I'm a CS Student, Developer, and Free-thinker!
 - **Deep Learning is the key to the future!** atleast I think so 😜
 - I’m currently learning **nothing!** 🤣
 - I'm a way to bored with **2020** and **Covid-19**
