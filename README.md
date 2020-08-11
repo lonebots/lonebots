@@ -1,11 +1,11 @@
 ### Hi there, I'm Jishnu - aka [lonebots][website] 👋
 
-## I'm a CS Student, Developer, and !
-- 🔭 I’m currently working on a Deep Learning!
-- 🌱 I’m currently learning nothing! 🤣
-- 👯 I'm 
+## I'm a CS Student, Developer, and Hacker!
+- **Deep Learning is the key to the future!**(atleast I think so 😜)
+- I’m currently learning **nothing!** 🤣
+- I'm a way to bored with **2020** and **Covid-19**
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: You will know if 
+- ⚡ Fun fact: **I am very serious!!** 
 
 ### Connect with me:
 
@@ -46,7 +46,7 @@
 
 ---
 
-<img align="left" alt="lonebots's Github Stats" src="https://github-readme-stats.lonebots.vercel.app/api?username=lonebots&show_icons=true&hide_border=true" />
+<img align="left" alt="lonebots's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lonebots&show_icons=true&hide_border=true" />
 
 [website]: http://www.lonebotsprophet.live
 [twitter]: https://twitter.com/lonebots
