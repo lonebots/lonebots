@@ -1,4 +1,4 @@
-### Hi there, I'm Jishnu - aka [lonebots][website] 👋
+### Hi there, I'm Jishnu - aka lonebots
 
 ## I'm a CS Student, Developer, and Free-thinker!
 - **Deep Learning is the key to the future!** atleast I think so 😜
