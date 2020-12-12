@@ -12,4 +12,4 @@
 ### Hi! 👽
 </center>
 <br/>
-<p align="center"><a href="https://lonebots.github.io">Let's Explore!</a></p>
+<p font-size="bolder" align="center"><a href="https://lonebots.github.io"> Let's Explore! </a></p>
