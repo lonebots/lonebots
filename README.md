@@ -14,3 +14,4 @@
 <br/>
 <!--<p font-size="bolder" align="center"><a href="https://lonebots.github.io"> Let's Explore! </a></p>-->
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lonebots&theme=dark&background=000000)](https://git.io/streak-stats)
