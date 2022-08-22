@@ -15,3 +15,5 @@
 <!--<p font-size="bolder" align="center"><a href="https://lonebots.github.io"> Let's Explore! </a></p>-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lonebots&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lonebots&label=Profile%20views&color=0e75b6&style=flat" alt="lonebots" /> </p>
