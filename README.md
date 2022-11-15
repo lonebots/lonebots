@@ -1,4 +1,4 @@
-[![GitHub Banner - Jishnu Suresh](https://github.com/lonebots/lonebots/blob/master/lonebots-bg.png)](https://twitter.com/intent/follow?screen_name=lonebots)
+[![GitHub Banner - Jishnu Suresh](lonebots-bg.1.png)](https://twitter.com/intent/follow?screen_name=lonebots)
 
 <br/>
 <!--<p font-size="bolder" align="center"><a href="https://lonebots.github.io"> Let's Explore! </a></p>-->
