@@ -22,6 +22,6 @@
 
 </div>
 
-<a href=#><img src="contributions.svg"></a>
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lonebots&label=Profile%20views&color=0e75b6&style=flat" alt="lonebots" /> </p>
