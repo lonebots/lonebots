@@ -18,9 +18,9 @@
 <a href="https://instagram.com/lonebots" target="__blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="lonebots-instagram"/></a>
 <a href="https://linkedin.com/in/lonebots" target="__blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lonebots-linkedin"/></a>
 <a href="mailto:jishnusurajila@gmail.com?subject=Hey%20Jishnu,%20you%20are%20awesome" target="__blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" alt="lonebots-linkedin"/></a>
+    <br/>
+    <br/>
+    <br/>
+<a href="https://www.buymeacoffee.com/lonebots" target="__blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lonebots&button_colour=f6d32d&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </p>
-  
-
-  
-
 
