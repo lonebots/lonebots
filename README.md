@@ -26,5 +26,32 @@
 <a href="https://www.buymeacoffee.com/lonebots" target="__blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lonebots&button_colour=f6d32d&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 -->
 
+<hr/>
 
+Hey, I'm a recent computer science graduate with a strong interest in robotics. I'm fascinated by the challenges and opportunities presented by this dynamic field, and always eager to explore new ideas and technologies that can push the boundaries of what's possible in robotics. If you share my passion for robotics or just want to learn more about this exciting field, feel free to explore my GitHub projects and join me on this incredible journey of discovery and innovation.
+
+## Projects
+
+### Robotics or IoT 
+
+- [Turtle simulator - Catch them all](https://github.com/lonebots/turtlesim-catch-them-all)
+- [Water Consumption Monitoring System](https://github.com/lonebots/water-meter-project)
+
+### Full Stack Development 
+
+- [Blood Bank Management System](https://github.com/lonebots/blood-bank-app)
+- [Tic Tac Toe](https://github.com/lonebots/tic-tac-toe)
+- [Pomodoro Timer](https://github.com/lonebots/pomodoro-timer-app)
+
+### Machine Learning
+
+- [binary Image Classifier](https://github.com/lonebots/emotion-classifier)
+- [Emotion Classifier](https://github.com/lonebots/emotion-classifier)
+
+## Notes
+
+- [Python Programming](https://github.com/lonebots/python-programming)
+- [Robotic Operating System](https://github.com/lonebots/ros2) 
+- [Node.js for Beginners](nodejs-beginner) 
+- [JavaScript Fundamentals](https://github.com/lonebots/javascript-fundamentals)
 
