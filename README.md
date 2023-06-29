@@ -51,3 +51,9 @@ Have a look ath my resume [here](https://drive.google.com/file/d/1vS2oqIQ17ohhuf
 - [JavaScript Fundamentals](https://github.com/lonebots/javascript-fundamentals)
 
 </i>
+
+<!-- reade me status and star tracker
+![My github stats](https://github-readme-stats.vercel.app/api?username=lonebots&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonebots&layout=compact&theme=transparent)](https://github.com/soorajbhskrn)
+-->
+
