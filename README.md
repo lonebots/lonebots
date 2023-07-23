@@ -26,7 +26,7 @@
 
 #
 <i>
-Hey, I'm a recent computer science graduate with a strong interest in robotics. I'm fascinated by the challenges and opportunities presented by this dynamic field, and always eager to explore new ideas and technologies that can push the boundaries of what's possible in robotics. If you share my passion for robotics or just want to learn more about this exciting field, feel free to explore my GitHub projects and join me on this incredible journey of discovery and innovation.
+<!-- Hey, I'm a recent computer science graduate with a strong interest in robotics. I'm fascinated by the challenges and opportunities presented by this dynamic field, and always eager to explore new ideas and technologies that can push the boundaries of what's possible in robotics. If you share my passion for robotics or just want to learn more about this exciting field, feel free to explore my GitHub projects and join me on this incredible journey of discovery and innovation. -->
 
 Have a look ath my resume [here](https://drive.google.com/file/d/1vS2oqIQ17ohhufTjnoDYRX6DEhJIVoZi/view?usp=drive_link).    
     
