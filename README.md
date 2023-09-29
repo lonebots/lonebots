@@ -2,7 +2,9 @@
     <a href="https://twitter.com/intent/follow?screen_name=lonebots">
         <img src="lonebotsbg_background_removed.png" alt="GitHub Banner - Jishnu Suresh">
     </a>
-    <img src="https://media.giphy.com/media/eK6XrxPKZkKBplU28s/giphy.gif" width="110" style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);">
+    <div align="center">
+        <img src="https://media.giphy.com/media/eK6XrxPKZkKBplU28s/giphy.gif" width="110" style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);">
+    </div>
 </div>
 
 <br/>
@@ -35,7 +37,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
+<!--     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
@@ -76,11 +78,11 @@
             font-size: 16px;
             margin-bottom: 5px;
         }
-    </style>
+    </style> -->
 </head>
 <body>
     <div class="container">
-        <p>Hey, I'm a recent computer science graduate with a strong interest in robotics. I'm fascinated by the challenges and opportunities presented by this dynamic field, and always eager to explore new ideas and technologies that can push the boundaries of what's possible in robotics. If you share my passion for robotics or just want to learn more about this exciting field, feel free to explore my GitHub projects and join me on this incredible journey of discovery and innovation.</p>
+        <p align="justify">Hey, I'm a recent computer science graduate with a strong interest in robotics. I'm fascinated by the challenges and opportunities presented by this dynamic field, and always eager to explore new ideas and technologies that can push the boundaries of what's possible in robotics. If you share my passion for robotics or just want to learn more about this exciting field, feel free to explore my GitHub projects and join me on this incredible journey of discovery and innovation.</p>
         <p id="resume-link">Have a look at my resume<a href="https://drive.google.com/file/d/1vS2oqIQ17ohhufTjnoDYRX6DEhJIVoZi/view?usp=drive_link"> here</a></p>
         <div class="section">
             <div class="projects">
