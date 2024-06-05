@@ -82,32 +82,17 @@
 </head>
 <body>
     <div class="container">
-        <p align="justify">Hey, I'm a recent computer science graduate with a strong interest in robotics. I'm fascinated by the challenges and opportunities presented by this dynamic field, and always eager to explore new ideas and technologies that can push the boundaries of what's possible in robotics. If you share my passion for robotics or just want to learn more about this exciting field, feel free to explore my GitHub projects and join me on this incredible journey of discovery and innovation.</p>
+        <p align="justify">Hey, I'm a computer science graduate with a strong interest in robotics. I'm fascinated by the challenges and opportunities presented by this dynamic field, and always eager to explore new ideas and technologies that can push the boundaries of what's possible in robotics. If you share my passion for robotics or just want to learn more about this exciting field, feel free to explore my GitHub projects and join me on this incredible journey of discovery and innovation.</p>
         <p id="resume-link">Have a look at my resume<a href="https://drive.google.com/file/d/1vS2oqIQ17ohhufTjnoDYRX6DEhJIVoZi/view?usp=drive_link"> here</a></p>
         <div class="section">
             <div class="projects">
-                <div style="flex: 1;">
-                    <h3>Projects</h3>
-                    <!-- List of projects -->
-                    <ul>
-                        <li><a href="https://github.com/lonebots/turtlesim-catch-them-all">Turtle simulator - Catch them all</a></li>
-                        <li><a href="https://github.com/lonebots/water-meter-project">Water Consumption Monitoring System</a></li>
-                        <li><a href="https://github.com/lonebots/blood-bank-app">Blood Bank Management System</a></li>
-                        <li><a href="https://github.com/lonebots/tic-tac-toe">Tic Tac Toe</a></li>
-                        <li><a href="https://github.com/lonebots/pomodoro-timer-app">Pomodoro Timer</a></li>
-                        <li><a href="https://github.com/lonebots/emotion-classifier">binary Image Classifier</a></li>
-                        <li><a href="https://github.com/lonebots/emotion-classifier">Emotion Classifier</a></li>
-                    </ul>
-                </div>
             </div>
             <div class="notes">
                 <h3>Notes</h3>
                 <!-- List of notes -->
                 <ul>
-                    <li><a href="https://github.com/lonebots/python-programming">Python Programming</a></li>
                     <li><a href="https://github.com/lonebots/ros2">Robotic Operating System</a></li>
-                    <li><a href="nodejs-beginner">Node.js for Beginners</a></li>
-                    <li><a href="https://github.com/lonebots/javascript-fundamentals">JavaScript Fundamentals</a></li>
+                    <li><a href="https://github.com/lonebots/python-programming">Python Programming</a></li>
                 </ul>
             </div>
         </div>
@@ -120,5 +105,5 @@
 <!-- reade me status and star tracker
 ![My github stats](https://github-readme-stats.vercel.app/api?username=lonebots&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonebots&layout=compact&theme=transparent)](https://github.com/soorajbhskrn)
--->
+
 
