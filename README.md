@@ -91,7 +91,7 @@
                 <h3>Notes</h3>
                 <!-- List of notes -->
                 <ul>
-                    <li><a href="https://github.com/lonebots/ros2">Robotic Operating System</a></li>
+                    <li><a href="https://github.com/lonebots/robot-operating-system-notes">Robot Operating System 2 </a></li>
                     <li><a href="https://github.com/lonebots/python-programming">Python Programming</a></li>
                 </ul>
             </div>
